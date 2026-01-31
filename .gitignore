@@ -1,4 +1,4 @@
-data/
+
 models/*.pkl
 *.pyc
 __pycache__/

@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET: churn-model-bucket-cicd-abhi
+  S3_BUCKET: dvc-churn
 
 jobs:
   train-and-deploy:
